@@ -1,26 +1,26 @@
 :root {
-  --body-background-color: #f0f7f7;
-  --body-text-color: #002626;
-  --card-background-color: #ffffff;
-  --nav-background-color: #ffffff;
-  --nav-border-bottom-color: #d8e8e4;
-  --nav-current-border-bottom-color: #1e90ff; /* Changed from green */
-  --card-border-color: #d8e8e4;
-  --down-border-left-color: #eb3b5a;
-  --down-background-color: #ffd0d2;
-  --degraded-border-left-color: #f7b731;
-  --up-border-left-color: #1e90ff; /* Changed from green */
-  --tag-color: #ffffff;
-  --tag-up-background-color: #1e90ff; /* Changed from green */
-  --tag-down-background-color: #eb3b5a;
-  --tag-degraded-background-color: #f7b731;
-  --change-background-color: #f7b731;
-  --error-button-border-color: #1a46ad;
-  --error-button-background-color: #3867d6;
-  --error-button-color: #ffffff;
-  --submit-button-border-color: #1a46ad;
-  --submit-button-background-color: #3867d6;
-  --submit-button-color: #ffffff;
-  --graph-opacity: 1;
-  --graph-filter: none;
+  --body-background-color: #f0f4fa; /* Pale blue */
+  --body-text-color: #003366;       /* Changed from #002626 (deep teal) to a deep blue */
+  --card-background-color: #ffffff; /* Pure white */
+  --nav-background-color: #ffffff;  /* Pure white */
+  --nav-border-bottom-color: #d8e8f5; /* Pale blue */
+  --nav-current-border-bottom-color: #1e90ff; /* Dodger blue */
+  --card-border-color: #d8e8f5;     /* Pale blue */
+  --down-border-left-color: #eb3b5a; /* Bright coral red */
+  --down-background-color: #ffd0d2; /* Soft pink */
+  --degraded-border-left-color: #f7b731; /* Bright sunflower yellow */
+  --up-border-left-color: #20bf6b;  /* Mint green (unchanged as requested) */
+  --tag-color: #ffffff;             /* Pure white */
+  --tag-up-background-color: #20bf6b; /* Mint green (unchanged as requested) */
+  --tag-down-background-color: #eb3b5a; /* Bright coral red */
+  --tag-degraded-background-color: #f7b731; /* Bright sunflower yellow */
+  --change-background-color: #f7b731; /* Bright sunflower yellow */
+  --error-button-border-color: #1a46ad; /* Dark blue */
+  --error-button-background-color: #3867d6; /* Medium blue */
+  --error-button-color: #ffffff;    /* Pure white */
+  --submit-button-border-color: #1a46ad; /* Dark blue */
+  --submit-button-background-color: #3867d6; /* Medium blue */
+  --submit-button-color: #ffffff;  /* Pure white */
+  --graph-opacity: 1;              /* Fully opaque */
+  --graph-filter: none;            /* No filter applied */
 }
