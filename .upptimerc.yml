@@ -17,6 +17,7 @@ sites:
       - 302
       - 200
   - name: Unfur.ly Paid Tier Test
+    url: https://unfur.ly/12345
     expectedStatusCodes:
       - 302
       - 200
