@@ -28,7 +28,8 @@ sites:
       - 200
 
 status-website:
-  themeUrl: https://status.unfur.ly/unfurly-blue.css
+  theme: light
+  # themeUrl: https://status.unfur.ly/unfurly-blue.css
   favicon: https://unfur.ly/app/favicon-96x96.png
   faviconSvg: https://unfur.ly/app/favicon.svg
   cname: status.unfur.ly
