@@ -35,7 +35,7 @@ status-website:
   cname: status.unfur.ly
   logoUrl: https://unfur.ly/app/project/images/Unfurly_512.png
   name: " "
-  introTitle: "**Unfur.ly Status Page**"
+  introTitle: "**Status Page**"
   introMessage: |
     Welcome to the **_Unfur.ly_** status page. Here, you can find the current status of our link-shortening service and any ongoing incidents or maintenance events. 
     We strive to ensure maximum uptime and performance for our users. If you're experiencing issues, please [contact our support team](https://unfur.ly/support).
