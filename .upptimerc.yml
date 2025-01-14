@@ -32,7 +32,7 @@ status-website:
   # themeUrl: https://status.unfur.ly/unfurly-blue.css
   favicon: https://unfur.ly/app/favicon-96x96.png
   faviconSvg: https://unfur.ly/app/favicon.svg
-  cname: unfur.ly
+  cname: status.unfur.ly
   logoUrl: https://unfur.ly/app/project/images/Unfurly_512.png
   name: " "
   introTitle: "**Status Page**"
