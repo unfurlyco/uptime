@@ -76,18 +76,20 @@
     "url": "https://unfur.ly/freetier",
     "icon": "https://icons.duckduckgo.com/ip3/unfur.ly.ico",
     "slug": "unfur-ly-free-demo-tier-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 672,
-    "timeWeek": 644,
-    "timeMonth": 358,
-    "timeYear": 358,
-    "dailyMinutesDown": {}
+    "time": 708,
+    "timeDay": 5931,
+    "timeWeek": 1962,
+    "timeMonth": 708,
+    "timeYear": 708,
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   },
   {
     "name": "Unfur.ly Paid Tier Test",
