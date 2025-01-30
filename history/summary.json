@@ -76,19 +76,19 @@
     "url": "https://unfur.ly/freetier",
     "icon": "https://icons.duckduckgo.com/ip3/unfur.ly.ico",
     "slug": "unfur-ly-free-demo-tier-test",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 5931,
-    "timeWeek": 1962,
-    "timeMonth": 708,
-    "timeYear": 708,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 707,
+    "timeDay": 4177,
+    "timeWeek": 1818,
+    "timeMonth": 707,
+    "timeYear": 707,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 22
     }
   },
   {
