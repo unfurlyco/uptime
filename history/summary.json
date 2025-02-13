@@ -114,18 +114,19 @@
     "url": "https://unfur.ly/BeastGames",
     "icon": "https://icons.duckduckgo.com/ip3/unfur.ly.ico",
     "slug": "unfur-ly-geo-furl-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 283,
-    "timeDay": 741,
-    "timeWeek": 508,
-    "timeMonth": 311,
-    "timeYear": 283,
+    "time": 284,
+    "timeDay": 545,
+    "timeWeek": 489,
+    "timeMonth": 312,
+    "timeYear": 284,
     "dailyMinutesDown": {
+      "2025-02-13": 0,
       "2025-02-04": 22
     }
   }
