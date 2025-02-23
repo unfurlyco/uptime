@@ -1,6 +1,7 @@
 # Change these first
 owner: unfurlyco # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+delay: 2000 # 2 seconds
 
 sites:
   - name: Unfur.ly Landing Page
