@@ -17,16 +17,19 @@ sites:
     expectedStatusCodes:
       - 302
       - 200
+      - 202
   - name: Unfur.ly Paid Tier Test
     url: https://unfur.ly/12345
     expectedStatusCodes:
       - 302
       - 200
+      - 202
   - name: Unfur.ly GeoFurl Test
     url: https://unfur.ly/BeastGames
     expectedStatusCodes:
       - 302
       - 200
+      - 202
 
 status-website:
   theme: light
