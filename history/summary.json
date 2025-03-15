@@ -40,19 +40,19 @@
     "url": "https://unfur.ly/api/ui/info",
     "icon": "https://icons.duckduckgo.com/ip3/unfur.ly.ico",
     "slug": "unfur-ly-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 2137,
-    "timeWeek": 624,
-    "timeMonth": 321,
-    "timeYear": 269,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 312,
+    "timeDay": 2627,
+    "timeWeek": 922,
+    "timeMonth": 424,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-15": 0
+      "2025-03-15": 20
     }
   },
   {
