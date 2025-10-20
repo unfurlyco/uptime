@@ -1,7 +1,7 @@
 url: https://unfur.ly/12345
-status: up
-code: 200
-responseTime: 793
-lastUpdated: 2025-10-20T09:27:00.057Z
+status: down
+code: 503
+responseTime: 260
+lastUpdated: 2025-10-20T14:59:32.678Z
 startTime: 2025-01-10T20:16:40.129Z
 generator: Upptime <https://github.com/upptime/upptime>
