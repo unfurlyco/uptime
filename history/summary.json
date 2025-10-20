@@ -24,19 +24,19 @@
     "url": "https://unfur.ly/app/login",
     "icon": "https://icons.duckduckgo.com/ip3/unfur.ly.ico",
     "slug": "unfur-ly-app-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.45%",
-    "uptimeWeek": "99.49%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 275,
-    "timeDay": 268,
-    "timeWeek": 276,
-    "timeMonth": 291,
-    "timeYear": 275,
+    "time": 342,
+    "timeDay": 5246,
+    "timeWeek": 2266,
+    "timeMonth": 894,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2025-10-20": 51
+      "2025-10-20": 52
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "unfur-ly-api",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "90.64%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "88.75%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.96%",
     "time": 340,
     "timeDay": 5214,
@@ -56,7 +56,7 @@
     "timeMonth": 957,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2025-10-20": 134,
+      "2025-10-20": 162,
       "2025-03-15": 20
     }
   },
@@ -107,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unfur.ly.ico",
     "slug": "unfur-ly-paid-tier-test",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "87.90%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "86.01%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.94%",
     "time": 720,
     "timeDay": 730,
     "timeWeek": 680,
     "timeMonth": 898,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2025-10-20": 175,
+      "2025-10-20": 202,
       "2025-02-25": 32
     }
   },
