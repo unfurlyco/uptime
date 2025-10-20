@@ -1,7 +1,7 @@
 url: https://unfur.ly/app/login
-status: up
-code: 200
-responseTime: 340
-lastUpdated: 2025-10-20T16:42:54.594Z
+status: down
+code: 503
+responseTime: 20053
+lastUpdated: 2025-10-20T16:55:43.912Z
 startTime: 2025-01-10T20:16:37.694Z
 generator: Upptime <https://github.com/upptime/upptime>
